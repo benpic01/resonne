@@ -24,6 +24,8 @@ Cette page offre les mêmes fonctionnalités que la page précédente mais pour 
 
 ## La Base de Donnée
 
+Une base de données de test est fournis. Il vous suffit d'importer.
+
 ![Capture](https://user-images.githubusercontent.com/15854398/120712627-2c8b7000-c4c1-11eb-89c7-068955b99902.PNG)
 
 - Les jours travaillés sont stockées dans la table `jours`
