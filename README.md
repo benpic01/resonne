@@ -21,3 +21,12 @@ Cette page permet d'afficher, d'ajouter, d'écouter, de modifier et de supprimer
 Cette page offre les mêmes fonctionnalités que la page précédente mais pour des messages.
 
 ![Capture](https://user-images.githubusercontent.com/15854398/120710800-e208f400-c4be-11eb-9d09-49aee971f77a.PNG)
+
+## La Base de Donnée
+
+![Capture](https://user-images.githubusercontent.com/15854398/120712627-2c8b7000-c4c1-11eb-89c7-068955b99902.PNG)
+
+- Les jours travaillés sont stockées dans la table `jours`
+- Les messages dans la table `messages`
+- Les sonneries dans la table `sonneries`
+- Les vacances dans la table `vacances`
